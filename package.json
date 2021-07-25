@@ -1,0 +1,16 @@
+{
+  "name": "linked-connection-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/cypress open",
+    "start:headless": "node_modules/.bin/cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.4.0"
+  }
+}
